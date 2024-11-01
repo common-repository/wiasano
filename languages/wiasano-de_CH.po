@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wiasano 1.1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wiasano\n"
+"POT-Creation-Date: 2023-11-21T14:13:27+00:00\n"
+"PO-Revision-Date: 2024-04-18 17:39+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: wiasano\n"
+
+#. Plugin Name of the plugin
+msgid "wiasano"
+msgstr "wiasano"
+
+#. Description of the plugin
+msgid "The official wiasano WordPress Plugin allows you to connect your blog with wiasano so you can schedule and publish your posts automatically."
+msgstr "Mit dem offiziellen wiasano WordPress Plugin kannst du deinen Blog mit wiasano verbinden, um Beiträge automatisch und geplant zu veröffentlichen."
+
+#. Author of the plugin
+msgid "wiasano GmbH"
+msgstr "wiasano GmbH"
+
+#: admin.php:16
+msgid "wiasano WordPress token"
+msgstr "wiasano WordPress Token"
+
+#: admin.php:74
+msgid "Enter your wiasano WordPress token here. You can find it in the"
+msgstr "Trage hier dein wiasano WordPress Token ein. Du findest ihn in den"
+
+#: admin.php:76
+msgid "wiasano strategy settings"
+msgstr "wiasano Strategie-Einstellungen"
+
+#: admin.php:188
+msgid "Use the wiasano WordPress Plugin to schedule and publish blog posts you create with"
+msgstr "Mit dem wiasano WordPress Plugin kannst du deine Beiträge planen und veröffentlichen, die du geplant hast in"
+
+#: admin.php:196
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+#: class-wiasanopoststable.php:19
+msgid "Title"
+msgstr "Titel"
+
+#: class-wiasanopoststable.php:20
+msgid "Published"
+msgstr "Veröffentlicht"
+
+#: class-wiasanopoststable.php:21
+msgid "Post ID"
+msgstr "Beitrags-id"
+
+#: class-wiasanopoststable.php:22
+msgid "Todo ID"
+msgstr "Aufgaben-ID"
+
+#: class-wiasanopoststable.php:23
+msgid "Errors"
+msgstr "Fehler"
+
+#. translators: interval. %d: number of minutes between scheduled runs
+#: scaffold.php:47
+msgid "Every %d minutes"
+msgstr "Alle %d Minuten"
+
+#: wiasano.php:19
+msgid "Direct access to this plugin is not supported."
+msgstr "Direkter Zugriff auf dieses Plugin wird nicht unterstützt."
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wiasano/"
+msgstr ""
+
+#: admin.php:27
+msgid "Post Type"
+msgstr "Beitrags-Typ"
+
+#: admin.php:38
+msgid "Field Mappings"
+msgstr "Feld-Zuordnungen"
+
+#: admin.php:133
+msgid "ACF Field"
+msgstr "WordPress Feld"
+
+#: admin.php:134
+msgid "wiasano Field"
+msgstr "wiasano Feld"
+
+#: admin.php:135
+msgid "Actions"
+msgstr "Aktionen"
+
+#: admin.php:144
+msgid "Remove"
+msgstr "Entfernen"
+
+#: admin.php:151
+msgid "Add Mapping"
+msgstr "Zuordnung hinzufügen"

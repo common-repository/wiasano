@@ -1,0 +1,108 @@
+# Copyright (C) 2024 wiasano GmbH
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: wiasano 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wiasano\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-04-18T15:37:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: wiasano\n"
+
+#. Plugin Name of the plugin
+msgid "wiasano"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wordpress.org/plugins/wiasano/"
+msgstr ""
+
+#. Description of the plugin
+msgid "The official wiasano WordPress Plugin allows you to connect your blog with wiasano so you can schedule and publish your posts automatically."
+msgstr ""
+
+#. Author of the plugin
+msgid "wiasano GmbH"
+msgstr ""
+
+#: admin.php:16
+msgid "wiasano WordPress token"
+msgstr ""
+
+#: admin.php:27
+msgid "Post Type"
+msgstr ""
+
+#: admin.php:38
+msgid "Field Mappings"
+msgstr ""
+
+#: admin.php:74
+msgid "Enter your wiasano WordPress token here. You can find it in the"
+msgstr ""
+
+#: admin.php:76
+msgid "wiasano strategy settings"
+msgstr ""
+
+#: admin.php:133
+msgid "ACF Field"
+msgstr ""
+
+#: admin.php:134
+msgid "wiasano Field"
+msgstr ""
+
+#: admin.php:135
+msgid "Actions"
+msgstr ""
+
+#: admin.php:144
+msgid "Remove"
+msgstr ""
+
+#: admin.php:151
+msgid "Add Mapping"
+msgstr ""
+
+#: admin.php:188
+msgid "Use the wiasano WordPress Plugin to schedule and publish blog posts you create with"
+msgstr ""
+
+#: admin.php:196
+msgid "Save settings"
+msgstr ""
+
+#: class-wiasanopoststable.php:19
+msgid "Title"
+msgstr ""
+
+#: class-wiasanopoststable.php:20
+msgid "Published"
+msgstr ""
+
+#: class-wiasanopoststable.php:21
+msgid "Post ID"
+msgstr ""
+
+#: class-wiasanopoststable.php:22
+msgid "Todo ID"
+msgstr ""
+
+#: class-wiasanopoststable.php:23
+msgid "Errors"
+msgstr ""
+
+#. translators: interval. %d: number of minutes between scheduled runs
+#: scaffold.php:47
+msgid "Every %d minutes"
+msgstr ""
+
+#: wiasano.php:19
+msgid "Direct access to this plugin is not supported."
+msgstr ""
